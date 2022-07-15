@@ -52,6 +52,6 @@ More information for this service can be found on the [Confluence](https://confl
 
 |<sub>Indicator</sub>|<sub>SLA</sub>|
 | ------ | ------ |
-|<sub>Availability</sub>|<sub>99%</sub>|
-|<sub>Response Time</sub>|<sub>75% within 5 bsuiness days</sub>|
-|<sub>Accuracy</sub>|<sub>75% with 75% accuracy of original estimate</sub>|
+|<sub>Availability</sub>|<sub>80%</sub>|
+|<sub>Response Time</sub>|<sub>80% per business week</sub>|
+|<sub>Accuracy</sub>|<sub>80% of all reports</sub>|
