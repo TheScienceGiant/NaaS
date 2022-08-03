@@ -1,5 +1,5 @@
-# NaaS
-NOC as a Service - Daily TIGER report
+# Daily TIGER report
+NOC as a Service (NaaS) - Daily TIGER report
 ===================================
 
 # Overview
