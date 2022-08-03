@@ -1,4 +1,3 @@
-# Daily TIGER report
 NOC as a Service (NaaS) - Daily TIGER report
 ===================================
 
